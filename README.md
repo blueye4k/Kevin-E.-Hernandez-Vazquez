@@ -1,4 +1,11 @@
-# Kevin-E.-Hernandez-Vazquez 
+# Kevin-E.-Hernandez-Vazquez  
+
+
+<p align="center">
+  <img src="https://github.com/blueye4k/Kevin-E.-Hernandez-Vazquez/blob/master/Swarmathon%20Pictures/INTER_Expo/Swarmathon%20Team.jpeg" width="350" title="hover text">
+</p> 
+
+
 ## SOFTWARE PROGRAMMER
 Motivated engineering student with extensive knowledge in programming software and experience in multiple projects that involve problem-solving, system design and teamwork. Fluent in Spanish/English.
 
