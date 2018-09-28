@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/blueye4k/Kevin-E.-Hernandez-Vazquez/blob/master/Swarmathon%20Pictures/INTER_Expo/Swarmathon%20Team.jpeg" width="350" title="hover text">
+  <img src="https://github.com/blueye4k/Kevin-E.-Hernandez-Vazquez/blob/master/Swarmathon%20Pictures/INTER_Expo/Swarmathon%20Team.jpeg" width="1000" title="hover text">
 </p> 
 
 
